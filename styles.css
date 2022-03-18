@@ -1,0 +1,55 @@
+.nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+.our-program {
+  text-align: center;
+  margin-top: 40px;
+}
+.about-program {
+  text-align: center;
+}
+.card-group {
+  margin-top: 40px;
+}
+.card {
+  margin: 0px 60px 40px 60px;
+}
+.programs {
+  background: #ea3d69;
+  padding-bottom: 50px;
+  padding-top: 5px;
+}
+.card-title {
+  text-align: center;
+  background: black;
+  padding: 10px 40px 10px 40px;
+  color: white;
+}
+h3 {
+  text-align: center;
+  margin-top: 60px;
+}
+strong {
+  font-size: 40px;
+}
+.about-us {
+  margin-top: 150px;
+  text-align: center;
+}
+.about-img {
+  margin-left: auto;
+  display: block;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.contact {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 40px 20px 20px 20px;
+  background: #ea3d69;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
